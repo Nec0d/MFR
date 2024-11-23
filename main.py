@@ -1,4 +1,4 @@
-print("Hello GIT11!!")
+print("Hello github!!")
 
 print("Hello new 'vetka'")
 print("Я сделал новую ветку")
